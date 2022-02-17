@@ -19,8 +19,9 @@ After clone the repo, run these commands:
 
 ## Used techs
 
-- Jest
-- Testing Library
-- Typescript
+- [Jest](https://jestjs.io/) 
+- [Testing Library](https://testing-library.com/)
+- [Typescript](https://www.typescriptlang.org/)
+
 
 Made with ♥ by Diego Andrade :wave: [Get in touch!](https://www.linkedin.com/in/diego-rodrigo-de-andrade-98a0271a0/)
