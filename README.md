@@ -19,6 +19,7 @@ After clone the repo, run these commands:
 
 ## Used techs
 
+- [ReactJs](https://pt-br.reactjs.org/)
 - [Jest](https://jestjs.io/) 
 - [Testing Library](https://testing-library.com/)
 - [Typescript](https://www.typescriptlang.org/)
